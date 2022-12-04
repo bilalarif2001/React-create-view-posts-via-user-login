@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "hamza"
+    },
+    {
+      "id": 2,
+      "username": "badar"
+    },
+    {
+      "id": 3,
+      "username": "bilal"
+    }
+  ],
+  "posts": [
+    {
+      "username": "hamza",
+      "post_title": "First Dummy Post",
+      "post_content": "First Dummy Content",
+      "id": 1
+    },
+    {
+      "username": "hamza",
+      "post_title": "Bootcamp",
+      "post_content": "We are currently doing a bootcamp project\n",
+      "id": 2
+    },
+    {
+      "username": "bilal",
+      "post_title": "Activity 10 performed by bilal",
+      "post_content": "React data validation login signup",
+      "id": 3
+    },
+    {
+      "username": "bilal",
+      "post_title": "Graphene Sensors Gaining Steam",
+      "post_content": "Graphene gathers a lot of interest for both high-tech and lower-tech applications but has typically taken a lot longer to be adopted in the more advanced technology sectors. One notable exception is graphene-based sensors, which have slowly and steadily been coming to the market across different industry sectors and from a range of companies around the world, including Cardea Bio, Emberion, Grolltex, Integrated Graphene, and Paragraf.",
+      "id": 4
+    },
+    {
+      "username": "badar",
+      "post_title": "wow",
+      "post_content": "OOPS",
+      "id": 5
+    }
+  ]
+}
