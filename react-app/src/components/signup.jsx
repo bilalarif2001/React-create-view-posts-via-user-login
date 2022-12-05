@@ -42,7 +42,6 @@ function Signup() {
     else{
       const user = {
         id: id,
-        email: email,
       };
       fetch("http://localhost:5000/users", {
         method: "POST",
@@ -69,7 +68,7 @@ function Signup() {
           <div className="col-lg-6 col-md-6 col-sm-12 col-12">
             <label className="form-label">UserName</label>
             <input
-              type="email"
+              type="text"
               className="form-control "
               required
               placeholder="Enter Username"
