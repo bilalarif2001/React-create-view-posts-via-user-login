@@ -62,7 +62,6 @@ function CreatePost(props) {
                 className="form-control"
                 required
                 placeholder="Enter Title"
-                defaultValue={name}
                 onChange={(e) => setTitle(e.target.value)}
               />
             </div>
